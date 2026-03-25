@@ -1,5 +1,4 @@
 
-
 # Hi 👋, I'm ROHIT SINGH KANDARI
 ### A passionate developer from India 🇮🇳
 
